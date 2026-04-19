@@ -161,7 +161,7 @@ function Hero() {
             <RotatingBorder />
             <AnimatedFrame borderRadius={16} />
             <div className="relative w-full h-full rounded-2xl overflow-hidden bg-[#161616] ring-2 ring-[#C0001A]/60">
-              <img src="about.jpeg" alt="Lisette Obognon — Développeuse web fullstack" className="w-full h-full object-cover object-top" width="384" height="500" fetchpriority="high" />
+              <img src="about.jpeg" alt="Lisette Obognon — Développeuse web fullstack" className="w-full h-full object-cover object-top" width="384" height="500" fetchpriority="high"   />
               <div className="absolute inset-0 bg-gradient-to-t from-[#0D0D0D]/60 via-transparent to-transparent" />
             </div>
           </div>
